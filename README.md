@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioBettarello&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Betta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/973694626420641802/1004411641124884652/tralhagit.png?width=676&height=676">
+  <img align="right" alt="Betta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/973694626420641802/1004464681412472973/tralhagit.png?width=676&height=676">
 </div>
   
   ##
