@@ -3,6 +3,7 @@
   <a href="https://github.com/FabricioBettarello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioBettarello&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioBettarello&layout=compact&langs_count=7&theme=dark"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioBettarello&theme=dark"/></p>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Betta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/973694626420641802/1004411641124884652/tralhagit.png?width=676&height=676">
