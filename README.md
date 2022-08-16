@@ -1,4 +1,4 @@
-## Fala ae rapaziada, eu sou o Fabricio, mais conhecido como Betta!
+## Fabricio Bettarello Heluani
 <div align="center">
   <a href="https://github.com/FabricioBettarello">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FabricioBettarello&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
