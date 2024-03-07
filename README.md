@@ -23,7 +23,7 @@
 </div>
 
 ###
-
+<br>
 <h3 align="left">Minhas habilidades:</h3>
 
 ###
