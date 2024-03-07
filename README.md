@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Redes sociais</h2>
+<h3 align="left">Redes sociais:</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Minhas habilidades</h2>
+<h3 align="left">Minhas habilidades:</h3>
 
 ###
 
